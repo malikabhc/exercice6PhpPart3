@@ -14,6 +14,11 @@
           $good--;
           echo 'C\'est presque bon';
         }
+/*Autre possibilité boucle for
+        for ($good = 20; $good >0 ; $good--) {
+          echo 'C\'est presque bon';
+        }
+*/
       ?>
     </p>
   </body>
